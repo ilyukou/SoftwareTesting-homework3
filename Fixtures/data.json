@@ -1,0 +1,9 @@
+{
+    "user" :{
+        "login" : "email@mail.com",
+        "password" : "password"
+    },
+    "company" :{
+        "name" : "My Company"
+    }
+}
